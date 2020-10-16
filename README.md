@@ -1,3 +1,7 @@
+### NLP pages
+
+This repository will contain the data which will be published.
+
 #### Data for NLP pages
 
 | NLP Data                         | Markdown file                                                                                                                                                                                                                                                                              | Notebook File                                                                                                                                                                                                                                          |
@@ -16,3 +20,11 @@
 | Bag of Words                     | [BOWS.md](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Ria_NLP_BOWS.md)                                                                                                             | [BOWS.ipynb](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Ria_NLP_BOWS.ipynb)                                                                   |
 | Subsampling                      | [Subsampling.md](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Utkarsh_NLP_Subsampling.md)                                                                                       | [Subsampling.ipynb](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Utkarsh_NLP_Subsampling.ipynb)                                             |
 | Word2Vec                         | [Word2Vec.md](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Utkarsh_NLP_Word2Vec.md)                                                                                             | [Word2Vec.ipynb](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Utkarsh_NLP_Word2Vec.ipynb)                                                   |
+
+
+#### Steps to proceed for each topic from above table
+
+1. Create a folder with the topic name as given in the above table.
+2. Put all the data from the [open-contributions]((https://github.com/Learn-Write-Repeat/Open-contributions) repository of this topic, in the created folder `(all the images scripts or extra files which are being used in markdown or notebook)
+3. Try understanding the content and run the program.
+4. Change the data if required.
